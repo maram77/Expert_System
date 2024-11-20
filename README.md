@@ -41,7 +41,3 @@ This repository also includes a **PowerPoint presentation** detailing the projec
 4. Run the application:
    ```bash
    python app.py
-
-
-   
-
